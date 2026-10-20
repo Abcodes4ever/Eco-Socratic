@@ -50,7 +50,7 @@ public class MainApp extends Application {
         VBox root = new VBox(10, chatArea, inputField, sendBtn);
         root.setPadding(new Insets(15));
 
-        stage.setTitle("Green Socratic Desktop");
+        stage.setTitle("Eco Socratic Desktop");
         stage.setScene(new Scene(root, 500, 450));
         stage.show();
     }
