@@ -159,7 +159,7 @@ On the first prompt of a session, Ollama loads the 2.2 GB `phi3:mini` weights fr
 
 ## 📜 License & Copyright
 
-**Copyright © 2026 [Abigail Rita Rayan, Bhavadharani M.S, Dhivyashree, Nifana Parveen, Shruthika K.K]. All Rights Reserved.**
+**Copyright © 2026 [Abigail Rita Rayan, Bhavadharani M.S, Dhivyashree S.N, Nifana Parveen N, Shruthika K.K]. All Rights Reserved.**
 
 This software, source code, architecture, and associated documentation files (the "Software") are the proprietary and confidential property of the author.
 
